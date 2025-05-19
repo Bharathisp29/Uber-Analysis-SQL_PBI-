@@ -1,4 +1,4 @@
-# Amazon Prime Video - PowerBI
+# Amazon Prime Video Dashboard - PowerBI
 📊 Amazon Prime Video Dashboard - Overview
 This Power BI dashboard provides a comprehensive analysis of the content available on Amazon Prime Video from the year 1920 to 2021. The dataset comprises 9,655 titles and offers insights into various metrics including ratings, genres, directors, countries, and the distribution of movies vs. TV shows.
 
